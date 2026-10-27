@@ -8,9 +8,9 @@ A retail data engineering project built in Microsoft Fabric using the Medallion 
 - **Gold:** The Silver tables are joined and aggregated into product-level KPIs such as total orders, returns, return rate, revenue and net profit.
 
 ## Tools used
-Microsoft Fabric, Lakehouse, Data Pipeline, PySpark, Delta tables, Azure Data Lake Storage Gen2, Power BI
+Microsoft Fabric, Lakehouse, Data Pipeline, PySpark, Delta tables, Azure Data Lake Storage Gen2
 
 ## Documentation
 Step-by-step documentation with screenshots is in:
 - Microsoft_Fabric_Retail_Project.pdf
-- Microsoft_Fabric_Retail_Project.docx
+- Retail NB.py
